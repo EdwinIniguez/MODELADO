@@ -1,6 +1,26 @@
-# Proyecto de Modelado Predictivo
 
-Este repositorio contiene el desarrollo completo de un proyecto de modelado predictivo, desde la exploración y limpieza de datos hasta la validación de modelos y experimentos de regresión. El proyecto está organizado en varias carpetas temáticas, cada una con notebooks, scripts y datos relevantes.
+# MODELADO - Proyecto de Modelado Predictivo
+
+Este repositorio forma parte del **Portafolio de Análisis** y documenta el desarrollo completo de un proyecto de modelado predictivo, desde la exploración y limpieza de datos hasta la validación de modelos y experimentos de regresión. Aquí se presentan evidencias alineadas con los indicadores de la rúbrica, con referencias cruzadas para facilitar la evaluación.
+
+---
+
+## Evidencias para el Portafolio
+
+### Construcción de Modelos (SMA0101A)
+- **Construcción manual de modelos:**
+  - `1/Exploracion_Datos.ipynb`, `1/UniendoDatos.ipynb`, `1/Modelo_Binario.ipynb`
+  - Selección y justificación de variables en análisis exploratorio
+- **Explicación de variables:**
+  - `1/Diccionario_Simple_VisualizacionAonline.xlsx` y notebooks asociados
+- **Validación y funcionamiento del modelo:**
+  - `3/actividad_curvas_aprendizaje_validacion.ipynb`, `3/ejemplos_tema2_regresion_lineal.ipynb`
+  - `Problema de regresion/problema_de_regresion.ipynb` (validación de supuestos)
+
+### Relación con el Portafolio
+Este repositorio es referenciado en el [Portafolio de Análisis](../TC3006C.101-Portafolio-Analisis/README.md) como evidencia principal para los indicadores de construcción manual, explicación de variables y validación de supuestos.
+
+---
 
 ---
 
@@ -67,6 +87,11 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 ---
 
+## Notas para Evaluación
+- Este README y los notebooks están organizados para facilitar la localización de evidencias por indicador.
+- La documentación y los análisis están pensados para ser fácilmente referenciables desde el portafolio.
+
+---
 ## Licencia
 
 Este proyecto es solo para fines educativos y de investigación.
