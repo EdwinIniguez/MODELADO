@@ -38,7 +38,7 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 > **Nota:**  
 > Los archivos de datos grandes (`VisualizacionAonline.txt`, `LlamadasyWhatsap.txt`) **no están incluidos** en el repositorio por restricciones de tamaño de GitHub.  
-> Si necesitas estos archivos, solicítalos al autor o consulta la documentación interna.
+> Si necesitas estos archivos, es necesario extraerlos desde el archivo compreso `BD`.
 
 ---
 
