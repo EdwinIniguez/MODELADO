@@ -4,7 +4,7 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 - **1/**  
   Exploración, limpieza y unión de datos.  
@@ -34,7 +34,7 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 ---
 
-## 📦 Datasets
+## Datasets
 
 > **Nota:**  
 > Los archivos de datos grandes (`VisualizacionAonline.txt`, `LlamadasyWhatsap.txt`) **no están incluidos** en el repositorio por restricciones de tamaño de GitHub.  
@@ -42,7 +42,7 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3.x
 - Pandas, NumPy
@@ -53,7 +53,7 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 ---
 
-## 🚀 Cómo usar este repositorio
+## Cómo usar este repositorio
 
 1. Clona el repositorio:
    ```bash
@@ -67,12 +67,8 @@ Este repositorio contiene el desarrollo completo de un proyecto de modelado pred
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es solo para fines educativos y de investigación.
 
 ---
-
-## 📬 Contacto
-
-Para dudas o colaboración, contacta a Edwin Iñiguez.
